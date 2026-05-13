@@ -98,10 +98,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 ### 📊 Estatísticas
 
-<img 
-loading="lazy" 
-height="180em" 
-padding="120px" 
-width="100%" 
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThiagoFerfoglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-/>   
+<p align='center'>
+<a href="https://github.com/ThiagoFerfoglia">
+  <img 
+  loading="lazy" 
+  height="150em" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThiagoFerfoglia&layout=compact&langs_count=8&theme=dracula"/>
+  <img 
+  loading="lazy" 
+  height="150em" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThiagoFerfoglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+</p>
