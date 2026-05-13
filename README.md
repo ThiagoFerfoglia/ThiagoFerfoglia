@@ -1,112 +1,101 @@
-# 👨‍💻 Thiago Ferfoglia
+<div align="center">
 
-**Help Desk jr.**
+```
+████████╗██╗  ██╗██╗ █████╗  ██████╗  ██████╗
+╚══██╔══╝██║  ██║██║██╔══██╗██╔════╝ ██╔═══██╗
+   ██║   ███████║██║███████║██║  ███╗██║   ██║
+   ██║   ██╔══██║██║██╔══██║██║   ██║██║   ██║
+   ██║   ██║  ██║██║██║  ██║╚██████╔╝╚██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
+```
 
-Me chamo Thiago Ferfoglia, tenho 20 anos e sou natural de São Paulo-SP, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho, desde muito novo apaixonado por técnologia, e no meu [instagram](https://www.instagram.com/tferfoglia07/) compartilho as notícias do mundo dos games e técnologias em geral.
+### `$ whoami` → Thiago Ferfoglia
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/ThiagoFerfoglia?tab=followers">
-    <img 
-    alt="followers" 
-    title="me siga no Github" 
-    src="https://custom-icon-badges.demolab.com/github/followers/ThiagoFerfoglia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"
-    />
-    </a>
-     <a target="_blank" href="https://www.linkedin.com/in/thiago-ferfoglia-7b06162a7/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=Help+Desk+Jr.+%F0%9F%96%A5%EF%B8%8F;Estudante+de+ADS+%F0%9F%8E%93;Apaixonado+por+Tecnologia+%E2%9A%A1;S%C3%A3o+Paulo%2C+SP+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/ThiagoFerfoglia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white)](https://github.com/ThiagoFerfoglia?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferfoglia-7b06162a7/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tferfoglia07/)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias 
+## 👾 Sobre mim
 
-<img
-align="left"
-alt="HTML"
-tittle="HTML"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-align="left"
-display="flex"
-alt="CSS"
-tittle="CSS"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-
-<img
-align="left"
-alt="PYTHON"
-tittle="PYTHON"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
-<img 
-align="left"
-alt="JS"
-tittle="JS"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-align="left"
-alt="JS"
-tittle="JS"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
-/>
-
-
-<img 
-align="left"
-alt="JS"
-tittle="JS"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-          
-<img 
-align="left"
-alt="JS"
-tittle="JS"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-
-<br/>
-<br/>
+```yaml
+nome:       Thiago Ferfoglia
+idade:      20 anos
+localidade: São Paulo, SP — Brasil
+curso:      Análise e Desenvolvimento de Sistemas
+faculdade:  Universidade Nove de Julho (UNINOVE)
+cargo:      Help Desk Jr.
+interesses: [tecnologia, games, suporte técnico, desenvolvimento]
+instagram:  @tferfoglia07  # games & tech news
+status:     "Sempre aprendendo algo novo 🚀"
+```
 
 ---
 
-### 📊 Estatísticas
+## 🛠️ Linguagens & Tecnologias
 
-<p align='center'>
-<a href="https://github.com/ThiagoFerfoglia">
-  <img 
-  loading="lazy" 
-  height="150em" 
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThiagoFerfoglia&layout=compact&langs_count=8&theme=dracula"/>
-  <img 
-  loading="lazy" 
-  height="150em" 
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThiagoFerfoglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows11&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThiagoFerfoglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThiagoFerfoglia&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoFerfoglia&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThiagoFerfoglia&theme=dracula&no-frame=true&margin-w=8)](https://github.com/ThiagoFerfoglia)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoFerfoglia&theme=dracula&hide_border=true)](https://github.com/ThiagoFerfoglia)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=ThiagoFerfoglia&color=1D9E75&style=flat-square&label=Visualizações+do+perfil)
+
+*"O conhecimento é a única coisa que ninguém pode tirar de você."*
+
+</div>
